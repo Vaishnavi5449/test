@@ -1,3 +1,6 @@
+Download the folder "kubernetes_node_project" from vinod2305
+make changes accordingly to the files
+open terminal type the commands
 cd kubernetes_node_project
 npm start
 npm install
@@ -9,4 +12,5 @@ docker build -t nodeapp410 .
 docker tag nodeapp410 vaishnavijadhav199/nodeapp410
 docker login
 docker push vaishnavijadhav1399/nodeapp410
-check your repository
+check your repository - you will find the docker image pushed
+refer the vinod2305 folder and type the next commands as follows
